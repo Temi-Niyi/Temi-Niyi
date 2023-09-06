@@ -6,7 +6,6 @@
 🌱 I’m currently learning NodeJs<br>
 👯I'm open to collaborating on my social media channels<br>
 😸 It’s good to learn from other’s mistakes, I wish people learn something from me.<br>
-💬 Ask me about MERN<br>
 😄 Pronouns: YES<br>
 ⚡ Fun fact: I am Funny and I love to Code<br>
 
